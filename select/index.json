@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "六本木純情派",
+  "base_artist": "Ms.OOJA",
+  "createdAt": "2026-03-09T14:40:30.815319Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "六本木純情派(オリジナル カラオケ)",
+      "artist": "Yoko Oginome",
+      "has_synced": false,
+      "path": "select/01_六本木純情派(オリジナル_カラオケ)_Yoko_Oginome.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "六本木純情派",
+      "artist": "Yoko Oginome",
+      "has_synced": false,
+      "path": "select/02_六本木純情派_Yoko_Oginome.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "六本木純情派",
+      "artist": "Yoko Oginome",
+      "has_synced": true,
+      "path": "select/03_六本木純情派_Yoko_Oginome.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "六本木純情派",
+      "artist": "Yoko Oginome",
+      "has_synced": false,
+      "path": "select/04_六本木純情派_Yoko_Oginome.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "六本木純情派",
+      "artist": "Ms.OOJA",
+      "has_synced": false,
+      "path": "select/05_六本木純情派_Ms.OOJA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "六本木純情派",
+      "artist": "Ms.OOJA",
+      "has_synced": false,
+      "path": "select/pl_01_六本木純情派_Ms.OOJA.txt"
+    }
+  ]
+}
